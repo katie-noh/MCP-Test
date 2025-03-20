@@ -4,7 +4,7 @@ Welcome to the MCP Test repository! This repository was created to demonstrate t
 
 ## About
 
-This is a test repository that showcases various GitHub operations through the MCP (Machine Coding Partner) interface.
+This is a test repository that showcases various GitHub operations through the MCP (Model Context Protocol) interface.
 
 ## Features
 
