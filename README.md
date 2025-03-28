@@ -2,7 +2,7 @@
 
 Welcome to the MCP Test repository! This repository was created to demonstrate the GitHub API integration capabilities.
 
-## About
+## About MCP Test
 
 This is a test repository that showcases various GitHub operations through the MCP (Model Context Protocol) interface.
 
